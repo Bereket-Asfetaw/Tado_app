@@ -6,5 +6,6 @@ $ git clone https://github.com/Nayal404/flasktodos.git
 $ cd flasktodos
 $ pip install -r requirements.txt
 $ sudo python3 main.py
+$ Flask run
 ```
 ## Thank you for reaching out this repo.
